@@ -1,1 +1,2 @@
+Use this file to list all the stl algorithms and its usage.
 std::sort( std::begin( input_container ), std::end( input_container ) );
