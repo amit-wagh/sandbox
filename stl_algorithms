@@ -1,0 +1,1 @@
+std::sort( std::begin( input_container ), std::end( input_container ) );
